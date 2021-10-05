@@ -17,7 +17,7 @@
 ``gulp build``
 
 **Basic Eaxmple**
-``
+```
 $(parentContainer).aclTreeView({ callback: function(event, $elem, params) {
     // DO STUFF WHEN CLICK FIRED ON EACH ELEMENT
 }}, [
@@ -65,4 +65,4 @@ $(parentContainer).aclTreeView({ callback: function(event, $elem, params) {
       { label : 'Settings', icon : 'fas fa-desktop' },
       { label : 'Sevices', icon : 'fas fa-trash' } 
 ]);
-``
+```
